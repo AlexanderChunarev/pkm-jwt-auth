@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKM", "PKM\PKM.csproj", "{828F4511-E5C3-48DE-810E-A240952815AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828F4511-E5C3-48DE-810E-A240952815AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828F4511-E5C3-48DE-810E-A240952815AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828F4511-E5C3-48DE-810E-A240952815AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828F4511-E5C3-48DE-810E-A240952815AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
